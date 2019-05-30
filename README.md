@@ -1,4 +1,4 @@
-#### YAKS2 - TITUO
+# YAKS2 - TITUO
 
 
 **If you like this project and want to contribute to its further development, please consider donate some $ or € (paypal friends & family, please or DO NOT select "Buying something" from money transfer frontpage).** 
