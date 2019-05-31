@@ -1,0 +1,31 @@
+
+Part       Value        Device            Package           Description                          SPICEPREFIX TP_SIGNAL_NAME
+A500REV5                SJ                SJ                SMD solder JUMPER                                              
+BUZZ                    SJ                SJ                SMD solder JUMPER                                              
+C1         100n         C-EUC0805         C0805             CAPACITOR, European symbol                                     
+C2         10u          CPOL-EUB/3528-21R B/3528-21R        POLARIZED CAPACITOR, European symbol C                         
+C3         100n         C-EUC0805         C0805             CAPACITOR, European symbol                                     
+C4         100n         C-EUC0805         C0805             CAPACITOR, European symbol                                     
+FLASHBOARD              DIL40             DIL40             Dual In Line                                                   
+FL_LOWER   AM29F016     AM29F016          TSOP48                                                                           
+FL_UPPER   AM29F016     AM29F016          TSOP48                                                                           
+GOSWITCH                SJ                SJ                SMD solder JUMPER                                              
+IC1                     DIL40             DIL40             Dual In Line                                                   
+LED1                    LEDSML0805        SML0805           LED                                                            
+PGM_A18                 JP1E              JP1               JUMPER                                                         
+PGM_EN                  JP1E              JP1               JUMPER                                                         
+PGM_OE_HL               JP2E              JP2               JUMPER                                                         
+PGM_WR_HL               JP2E              JP2               JUMPER                                                         
+PROGRAMMER              DIL32             DIL32             Dual In Line                                                   
+R1         100k         R-EU_M0805        M0805             RESISTOR, European symbol                                      
+R2         100k         R-EU_M0805        M0805             RESISTOR, European symbol                                      
+R3         100k         R-EU_M0805        M0805             RESISTOR, European symbol                                      
+R4         100k         R-EU_M0805        M0805             RESISTOR, European symbol                                      
+R5         100k         R-EU_M0805        M0805             RESISTOR, European symbol                                      
+R6         100k         R-EU_M0805        M0805             RESISTOR, European symbol                                      
+R7         100k         R-EU_M0805        M0805             RESISTOR, European symbol                                      
+SENSE                   SMD2              SMD1,27-2,54      SMD PAD                                                        
+SJ1                     SJ2W              SJ_2              SMD solder JUMPER                                              
+SV1                     JP1E              JP1               JUMPER                                                         
+SV2                     JP1E              JP1               JUMPER                                                         
+U1         ATTINY85-20S ATTINY85-20S      SOIC8_EIAJ_208MIL ATMEL ATtiny 85                                                

@@ -1,0 +1,17 @@
+
+Part         Value        Device             Package           Description                           
+BUZZ1                     SJ                 SJ                SMD solder JUMPER                     
+C1           100n         C-EUC0805          C0805             CAPACITOR, European symbol            
+C2           100n         C-EUC0805          C0805             CAPACITOR, European symbol            
+C3           100n         C-EUC0805          C0805             CAPACITOR, European symbol            
+GND                       SMD2               SMD1,27-2,54      SMD PAD                               
+GOSWITCH                  SJ                 SJ                SMD solder JUMPER                     
+LED1                      LEDSML0805         SML0805           LED                                   
+LOWER_FLASH  M29F800*N    M29F800*N          48-TSOP           8MBit 5V Flash ROM (1M x 8/512K x 16) 
+LOWER_SOCKET              DIL40DIL40SMALLPIN DIL40SMALLPIN     Dual In Line                          
+R1           100k         R-EU_M0805         M0805             RESISTOR, European symbol             
+R2           100k         R-EU_M0805         M0805             RESISTOR, European symbol             
+SJ1                       SJ2W               SJ_2              SMD solder JUMPER                     
+U2           ATTINY85-20S ATTINY85-20S       SOIC8_EIAJ_208MIL ATMEL ATtiny 85                       
+UPPER_FLASH  M29F800*N    M29F800*N          48-TSOP           8MBit 5V Flash ROM (1M x 8/512K x 16) 
+UPPER_SOCKET              DIL40DIL40SMALLPIN DIL40SMALLPIN     Dual In Line                          

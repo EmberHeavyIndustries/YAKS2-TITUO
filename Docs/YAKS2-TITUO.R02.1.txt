@@ -1,0 +1,32 @@
+
+Part      Value        Device            Package           Description                          MF MPN OC_FARNELL OC_NEWARK SPICEPREFIX TP_SIGNAL_NAME
+A500REV5               SJ                SJ                SMD solder JUMPER                                                                          
+C1        100n         C-EUC0805         C0805             CAPACITOR, European symbol                                                                 
+C2        10n          C-EUC0805K        C0805K            CAPACITOR, European symbol                                                                 
+C3        10u          CPOL-EUB/3528-21R B/3528-21R        POLARIZED CAPACITOR, European symbol                             C                         
+C4        100n         C-EUC0805         C0805             CAPACITOR, European symbol                                                                 
+C5        100n         C-EUC0805         C0805             CAPACITOR, European symbol                                                                 
+C6        100n         C-EUC0805         C0805             CAPACITOR, European symbol                                                                 
+FL_LOWER  AM29F016     AM29F016          TSOP48                                                                                                       
+FL_UPPER  AM29F016     AM29F016          TSOP48                                                                                                       
+IC1                    DIL40             DIL40             Dual In Line                                                                               
+JP1                    PINHD-2X3         2X03              PIN HEADER                                                                                 
+PGM_A18                JP1E              JP1               JUMPER                                                                                     
+PGM_EN                 JP1E              JP1               JUMPER                                                                                     
+PGM_OE_HL              JP2E              JP2               JUMPER                                                                                     
+PGM_WR_HL              JP2E              JP2               JUMPER                                                                                     
+R1        100k         R-EU_M0805        M0805             RESISTOR, European symbol                                                                  
+R2        100          R-EU_M0805        M0805             RESISTOR, European symbol                                                                  
+R3        100k         R-EU_M0805        M0805             RESISTOR, European symbol                                                                  
+R4        100k         R-EU_M0805        M0805             RESISTOR, European symbol                                                                  
+R5        100k         R-EU_M0805        M0805             RESISTOR, European symbol                                                                  
+R6        100k         R-EU_M0805        M0805             RESISTOR, European symbol                                                                  
+R7        100k         R-EU_M0805        M0805             RESISTOR, European symbol                                                                  
+R8        100k         R-EU_M0805        M0805             RESISTOR, European symbol                                                                  
+R9        100k         R-EU_M0805        M0805             RESISTOR, European symbol                                                                  
+R10       100k         R-EU_M0805        M0805             RESISTOR, European symbol                                                                  
+SENS                   PINHD-1X1         1X01              PIN HEADER                                                                                 
+SG1       F/QMBIII     F/QMBIII          F/QMBIII          BUZZER Source: Buerklin                     unknown    unknown                             
+SV1                    JP1E              JP1               JUMPER                                                                                     
+SW1                    10-XX             B3F-10XX          OMRON SWITCH                                                                               
+U1        ATTINY85-20S ATTINY85-20S      SOIC8_EIAJ_208MIL ATMEL ATtiny 85                                                                            
