@@ -10,9 +10,9 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 
-**YAKS2-TITUO** is an **"Intelligent" kickstart switcher** for the Amiga A500-A600 and A1200-A4000, with unique features:
+**YAKS2-TITUO** is an **"Intelligent" kickstart switcher** for the Amiga A500-A600-A2000 and A1200-A4000, with unique features:
 
-- A500/A600 version
+- A500/A600/A2000 version
   - Can switch among four or eight different kickstarts
   - Kickstarts can be flashed at any time by mean of YAKS2 adapter and any common chip flasher, capable of managing 29F080 chips
   - Kickstart selection by mean of CTRL-A-A without the need of any additional wiring inside Amiga
@@ -26,6 +26,50 @@
   - Keep track of the selected kickstart upon poweroff
   - Optional audible kickstart selection confirmation 
 
+## YAKS2-TITUO FLAVORS
+
+The kickswitcher comes in three differen flavors, according to intened use and user preferences:
+
+
+# **YAKS2-TITUO R02.1**
+
+- Suitable for A500, A600, A2000
+- Kickstart images can be flashed at any time (by mean of YAKS2->29F080 adaptor)
+- Firmware can be upgraded via ICSP
+- Kickstart selection by CTRL-A-A and RST methos (can be easily modded for AUTOSENSE - 1 wire mod)
+- Onboard buzzer for audible kickstart switch and named selection evidence
+- "D" shaped footprint
+- Can switch among 4-kickstart-images or 8-kickstart-images
+
+![R02.1](https://github.com/EmberHeavyIndustries/YAKS2-TITUO/blob/master/Pics/YAKS2-TITUO_300.jpg)
+
+
+# **YAKS2-TITUO R03.1al**
+
+- Suitable for A500, A600, A2000
+- Kickstart images can be flashed at any time (by mean of YAKS2->29F080 adaptor)
+- Firmware cannot be upgraded via ICSP
+- Kickstart selection by CTRL-A-A, support both AUTOSENSE (no additional wires) and RST methods
+- Can connect an external buzzer for audible kickstart switch and named selection evidence
+- Visible kickstart switch and named selection evidence
+- Small footprint
+- Can switch among 4-kickstart-images or 8-kickstart-images
+
+![R03.1al](https://github.com/EmberHeavyIndustries/YAKS2-TITUO/blob/master/Pics/YAKS2-TITUO-AL_300.jpg)
+
+
+# **YAKS2-TITUO R03.1bl**
+
+- Suitable for A1200 and A4000
+- Kickstart images cannot be re-flashed 
+- Firmware cannot be upgraded via ICSP
+- Kickstart selection by CTRL-A-A, support both AUTOSENSE (no additional wires) and RST methods
+- Can connect an external buzzer for audible kickstart switch and named selection evidence
+- Visible kickstart switch and named selection evidence
+- Small footprint
+- Can switch among 2-kickstart-images or 4-kickstart-images
+
+![R03.1al](https://github.com/EmberHeavyIndustries/YAKS2-TITUO/blob/master/Pics/YAKS2-TITUO-BL_300.jpg)
 
 /*************** EDITING IN PROGRESS *************************/
 
