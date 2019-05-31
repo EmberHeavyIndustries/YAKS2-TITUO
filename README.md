@@ -97,27 +97,8 @@ At first, look at a fully assembled board (please note some vacancies: not all p
 
 [HID2AMI v1.1.0 SCHEMATICS SHEET](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.1.0.redist.sch)
 
-#### **REFERENCE LAYOUTS**
-
-[Reference Layout v1.0.0 Top](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.0.0.redist.layout.top.pdf)
-
-[Reference Layout v1.0.0 Bottom](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.0.0.redist.layout.bottom.pdf)
-
-[Reference Layout v1.1.0 Top](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.1.0.layout.top.pdf)
-
-[Reference Layout v1.1.0 Bottom](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.1.0.layout.bottom.pdf)
 
 #### **BILL OF MATERIALS**
-
-Components noted as "Optional" fulfil the general purpose STM32F1x reference design; generally speaking they can be safely omitted from the assembly of HID2AMI. Consider soldering any of them in case you experience some instability of any kind (never experienced so far).
-
-LED1 is "run mode" indicator; it blinks at variable rates to indicate HID2AMI running status (suggesetd colors: green, yellow, white)
-- When in BOOTLOADER mode, a fast blink means bootloader running and waiting for the "App" to be flashed/upgraded
-- When in APP mode, a "regular" blinking means the App is running and waiting for input; a slower blinking (upon connecting a peripheral), means the peripheral correctly identified and mapped 
-
-LED2 is the "power on" indicator; if lit then your board gets correct +5V and +3.3V power supply 
-
-For both LED1 and LED2, the suggested value for their respective limiting current resistors is 10k, but you can safely experiment any value in range 1k-47k depending on the led components characteristics and light efficiency (and your personal taste)
 
 [Reference BOM v1.0.0](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.0.0.BOM.txt)
 
@@ -140,23 +121,21 @@ For both LED1 and LED2, the suggested value for their respective limiting curren
 
 [HID2AMI v1.1.0 DELUXE BRD](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.1.0.redist.brd)
 
-### **BOOTLOADER**
+### **FIRMWARE**
 
 Current BOOTLOADER version is 1.3.0. You can freely get it from here [HID2AMIBOOTLOADER](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Firmware/HID2AMIBOOTLOADER.dfu)
 
 
-### **FLASHING INSTRUCTIONS**
 
-Detailed flashing instructions, and how to get your personal HID2AMI board code, can be found here, for both Linux (courtesy by Sukkopera) and Windows:
+/**********************************************************************************/
 
-[HID2AMI FLASHING INSTRUCTIONS](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Docs/Flashing.Instructions.md)
 
 
 ## **LICENSE TERMS**
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-### **Schematics and pcb gerbers**
-of HID2AMI are open source, released under the Creative Commons CC BY-NC license.
+### **Schematics, pcb layouts,  gerbers **
+of YAKS2-TITUO are open source, released under the Creative Commons CC BY-NC license.
 This means that you are free to:
 
 |                      |                                                                        |
@@ -175,34 +154,17 @@ Under the following terms:
 | No additional restrict| You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.  |
 
 
-### **HID2AMI BOOTLOADER** 
-is free to download, copy and redistribuite.
+### **YAKS2-TITUO FIRMWARE** 
+is free to download, copy and redistribuite to be used in conjuction with any YAKS2-TITUO board.
+The firmware **CANNOT** be in any way:
+- used for any other purpose than YAKS2-TITUO (e.g. flashed in other boards)
+- sold, rent or leased. If you were asked to pay for it, you've been tricked
 
-### **HID2AMI APP** 
-is distribuited by request from the author; each instance is strictly tied 1:1 to a particular HID2AMI board. You are not allowed to copy and distribuite HID2AMI APP in any medium or format. 
-
-## **DISTRIBUTION AND PRICING POLICY**
-I've spent a great effort in designing and developing this app, so I would be grateful if you'd be happy to contibute to its future development. I decided to release all project's details, schematics and gerbers for free to everyone, but retaining myself close control over the firmware app. Being this one a no-profit hobbyist project, I can't guarantee any volume production of boards, so I will following the following distributio policies, for who may be interested in having one:
-
-- Software only
-  - You build the board yourself, by mean of the public gerbers or by a compatible custom layout you derive from schematics
-  - You get the APP from me by sending me a request together with your personal 4-digits code (see instructiuons above how to get it)
-  - Availability to serve request and cost of the app shall be exposed here or on the Amiga Forums I (Sampedenawa) am frequenting. Find HID2AMI on [Amigapage](http://www.amigapage.it), [EAB](https://eab.abime.net), [A1K](https://www.a1k.org). 
-
-- DYI KIT
-  - You build the board yourself by getting from me the pcb and all needed components
-  - You get the APP from me by sending me a request together with your personal 4-digits code 
-  - Availability and costs of DIY kits shall be exposed here or on the Amiga Forums I (Sampedenawa) am frequenting. Find HID2AMI on [Amigapage](http://www.amigapage.it), [EAB](https://eab.abime.net), [A1K](https://www.a1k.org).
-
-- COMPLETE BOARD
-  - You get the fully working board from me by sending me a request 
-  - (Rare) Availability and costs of complete boards shall be exposed here or on the Amiga Forums I (Sampedenawa) am frequenting
-. Find HID2AMI on [Amigapage](http://www.amigapage.it), [EAB](https://eab.abime.net), [A1K](https://www.a1k.org).
 
 ## **Warranty Disclaimer and Limitation of Liability**
 
-HID2AMI is an hobbyist project without any commercial intention; you understand that we cannot and do not guarantee or warrant neither the HID2AMI hardware (including but not limited to: schematics, gerbers, pcb, components, assembling, etc.) nor the HID2AMI software (bootloader, app, etc) from defects, breakage or loss of functionality. You are using HID2AMI under your exclusive risk and responsibility; please understand and AGREE that **WE WILL NOT BE LIABLE FOR ANY LOSS OR DAMAGE CAUSED BY EITHER ANY USE OR ANY MISUSE OF HID2AMI**
+YAKS2-TITUO is an hobbyist project without any commercial intention; you understand that we cannot and do not guarantee or warrant neither the YAKS2-TITUO hardware (including but not limited to: schematics, gerbers, pcb, components, assembling, etc.) nor the YAKS2-TITUO software (firmware, etc) from defects, breakage or loss of functionality. You are using HID2AMI under your exclusive risk and responsibility; please understand and AGREE that **WE WILL NOT BE LIABLE FOR ANY LOSS OR DAMAGE CAUSED BY EITHER ANY USE OR ANY MISUSE OF YAKS2-TITUO**
 
-BY MAKING USE OF HID2AMI, YOU EXPRESSLY AGREE THAT YOUR WILL ACCEPT IT ON "AS IS" BASIS WITHOUT ANY WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. YOU ALSO EXPRESSELY AGREE THAT YOUR USE OF HID2AMI HARDWARE AND ITS SOFTWARE COMPONENTS IS AT YOUR OWN RISK. NEITHER THE AUTHOR (Sampedenawa) NOR ANY PERSON ASSOCIATED WITH THE AUTHOR MAKES ANY WARRANTY OR REPRESENTATION WITH RESPECT TO THE COMPLETENESS, SECURITY, RELIABILITY, QUALITY, ACCURACY OR AVAILABILITY OF THE HID2AMI HARDWARE/SOFTWARE.
+BY MAKING USE OF YAKS2-TITUO, YOU EXPRESSLY AGREE THAT YOUR WILL ACCEPT IT ON "AS IS" BASIS WITHOUT ANY WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. YOU ALSO EXPRESSELY AGREE THAT YOUR USE OF HID2AMI HARDWARE AND ITS SOFTWARE COMPONENTS IS AT YOUR OWN RISK. NEITHER THE AUTHOR (Sampedenawa) NOR ANY PERSON ASSOCIATED WITH THE AUTHOR MAKES ANY WARRANTY OR REPRESENTATION WITH RESPECT TO THE COMPLETENESS, SECURITY, RELIABILITY, QUALITY, ACCURACY OR AVAILABILITY OF THE HID2AMI HARDWARE/SOFTWARE.
 
 IF YOU DO NOT UNDERSTAND AND EXPRESSLY AGREE WHAT STATED ABOVE, YOU ARE NOT ENTITLED BY THE AUTHOR TO USE HID2AMI FOR ANY PURPOSE.
