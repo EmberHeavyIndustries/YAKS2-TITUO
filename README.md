@@ -31,7 +31,7 @@
 The kickswitcher comes in three differen flavors, according to intened use and user preferences:
 
 
-# **YAKS2-TITUO R02.1**
+### **YAKS2-TITUO R02.1**
 
 - Suitable for A500, A600, A2000
 - Kickstart images can be flashed at any time (by mean of YAKS2->29F080 adaptor)
@@ -44,7 +44,7 @@ The kickswitcher comes in three differen flavors, according to intened use and u
 ![R02.1](https://github.com/EmberHeavyIndustries/YAKS2-TITUO/blob/master/Pics/YAKS2-TITUO_300.jpg)
 
 
-# **YAKS2-TITUO R03.1al**
+### **YAKS2-TITUO R03.1al**
 
 - Suitable for A500, A600, A2000
 - Kickstart images can be flashed at any time (by mean of YAKS2->29F080 adaptor)
@@ -58,7 +58,7 @@ The kickswitcher comes in three differen flavors, according to intened use and u
 ![R03.1al](https://github.com/EmberHeavyIndustries/YAKS2-TITUO/blob/master/Pics/YAKS2-TITUO-AL_300.jpg)
 
 
-# **YAKS2-TITUO R03.1bl**
+### **YAKS2-TITUO R03.1bl**
 
 - Suitable for A1200 and A4000
 - Kickstart images cannot be re-flashed 
