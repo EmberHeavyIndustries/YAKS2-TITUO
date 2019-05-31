@@ -36,7 +36,7 @@ The kickswitcher comes in three differen flavors, according to intened use and u
 - Suitable for A500, A600, A2000
 - Kickstart images can be flashed at any time (by mean of YAKS2->29F080 adaptor)
 - Firmware can be upgraded via ICSP
-- Kickstart selection by CTRL-A-A and RST methos (can be easily modded for AUTOSENSE - 1 wire mod)
+- Kickstart selection by CTRL-A-A and RST methods (can be easily modded for AUTOSENSE - 1 wire mod)
 - Onboard buzzer for audible kickstart switch and named selection evidence
 - "D" shaped footprint
 - Can switch among 4-kickstart-images or 8-kickstart-images
