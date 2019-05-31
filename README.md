@@ -81,54 +81,13 @@ The kickswitcher comes in three differen flavors, according to intened use and u
 
 
 
+### **EAGLE SCHEMATICS, BOARD LAYOUT and GERBER FILES**
 
-
-### ASSEMBLING REFERENCE DOCS
-
-At first, look at a fully assembled board (please note some vacancies: not all pads shall be populated)
-
-[Reference Board: TOP](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/HID2AMI.Black.Top.jpg "Reference Board: TOP")
-
-[Reference Board: BOTTOM](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Pics/HID2AMI.Black.Bottom.jpg "Reference Board: BOTTOM")
-
-#### **SCHEMATICS**
-
-[HID2AMI v1.0.0 SCHEMATICS SHEET](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.0.0.redist.sch)
-
-[HID2AMI v1.1.0 SCHEMATICS SHEET](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.1.0.redist.sch)
-
-
-#### **BILL OF MATERIALS**
-
-[Reference BOM v1.0.0](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.0.0.BOM.txt)
-
-[Reference BOM v1.1.0](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.1.0.BOM.txt)
-
-
-### **GERBER FILES**
-
-[HID2AMI v1.0.0 DELUXE GERBER FILES](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.0.0.redist_2019-01-19.zip)
-
-[HID2AMI v1.1.0 DELUXE GERBER FILES](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.1.0.redist_2019-02-28.zip)
-
-### **EAGLE SCHEMATICS AND BOARD LAYOUT**
-
-[HID2AMI v1.0.0 DELUXE SCHEMATICS](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.0.0.redist.sch)
-
-[HID2AMI v1.0.0 DELUXE BRD](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.0.0.redist.brd)
-
-[HID2AMI v1.1.0 DELUXE SCHEMATICS](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.1.0.redist.sch)
-
-[HID2AMI v1.1.0 DELUXE BRD](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Board/HID2AMI.Deluxe.Rev1.1.0.redist.brd)
+All schemtacis, layouts, gerber files and BOM are in 'Docs' subdirectory
 
 ### **FIRMWARE**
 
-Current BOOTLOADER version is 1.3.0. You can freely get it from here [HID2AMIBOOTLOADER](https://github.com/EmberHeavyIndustries/HID2AMI/blob/master/Firmware/HID2AMIBOOTLOADER.dfu)
-
-
-
-/**********************************************************************************/
-
+Preferred firmware can be downloaded from 'Firmware' subdirectory
 
 
 ## **LICENSE TERMS**
