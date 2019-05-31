@@ -44,6 +44,9 @@ The kickswitcher comes in three differen flavors, according to intened use and u
 ![R02.1](https://github.com/EmberHeavyIndustries/YAKS2-TITUO/blob/master/Pics/YAKS2-TITUO_300.jpg)
 
 
+
+
+
 ### **YAKS2-TITUO R03.1al**
 
 - Suitable for A500, A600, A2000
@@ -56,6 +59,9 @@ The kickswitcher comes in three differen flavors, according to intened use and u
 - Can switch among 4-kickstart-images or 8-kickstart-images
 
 ![R03.1al](https://github.com/EmberHeavyIndustries/YAKS2-TITUO/blob/master/Pics/YAKS2-TITUO-AL_300.jpg)
+
+
+
 
 
 ### **YAKS2-TITUO R03.1bl**
