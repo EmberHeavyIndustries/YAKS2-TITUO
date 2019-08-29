@@ -58,8 +58,11 @@ The kickswitcher comes in three differen flavors, according to intened use and u
 - Small footprint
 - Can switch among 4-kickstart-images or 8-kickstart-images
 
-![R03.1al](https://github.com/EmberHeavyIndustries/YAKS2-TITUO/blob/master/Pics/YAKS2-TITUO-AL_300.jpg)
-
+![R03.1al](https://github.com/EmberHeavyIndustries/YAKS2-TITUO/blob/master/Pics/01.500.jpg)
+![R03.1a2](https://github.com/EmberHeavyIndustries/YAKS2-TITUO/blob/master/Pics/02.500.jpg)
+![R03.1a3](https://github.com/EmberHeavyIndustries/YAKS2-TITUO/blob/master/Pics/03.500.jpg)
+![R03.1a4](https://github.com/EmberHeavyIndustries/YAKS2-TITUO/blob/master/Pics/04.500.jpg)
+![R03.1a5](https://github.com/EmberHeavyIndustries/YAKS2-TITUO/blob/master/Pics/05.5000.jpg)
 
 
 
