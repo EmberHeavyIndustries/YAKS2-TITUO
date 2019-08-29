@@ -62,7 +62,7 @@ The kickswitcher comes in three differen flavors, according to intened use and u
 ![R03.1a2](https://github.com/EmberHeavyIndustries/YAKS2-TITUO/blob/master/Pics/02.500.300.jpg)
 ![R03.1a3](https://github.com/EmberHeavyIndustries/YAKS2-TITUO/blob/master/Pics/03.500.300.jpg)
 ![R03.1a4](https://github.com/EmberHeavyIndustries/YAKS2-TITUO/blob/master/Pics/04.500.300.jpg)
-![R03.1a5](https://github.com/EmberHeavyIndustries/YAKS2-TITUO/blob/master/Pics/05.5000.300.jpg)
+![R03.1a2](https://github.com/EmberHeavyIndustries/YAKS2-TITUO/blob/master/Pics/02.1200.300.jpg)
 
 
 
@@ -79,7 +79,7 @@ The kickswitcher comes in three differen flavors, according to intened use and u
 - Can switch among 2-kickstart-images or 4-kickstart-images
 
 ![R03.1al](https://github.com/EmberHeavyIndustries/YAKS2-TITUO/blob/master/Pics/01.1200.300.jpg)
-![R03.1a2](https://github.com/EmberHeavyIndustries/YAKS2-TITUO/blob/master/Pics/02.1200.300.jpg)
+![R03.1a5](https://github.com/EmberHeavyIndustries/YAKS2-TITUO/blob/master/Pics/05.500.300.jpg)
 
 /*************** EDITING IN PROGRESS *************************/
 
