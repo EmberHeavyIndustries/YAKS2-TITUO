@@ -67,7 +67,7 @@ The kickswitcher comes in three differen flavors, according to intened use and u
 
 
 
-### **YAKS2-TITUO R03.1bl**
+### **YAKS2-TITUO R04.1bl**
 
 - Suitable for A1200 and A4000
 - Kickstart images cannot be re-flashed 
