@@ -71,7 +71,7 @@ The kickswitcher comes in three differen flavors, according to intened use and u
 
 - Suitable for A1200 and A4000
 - Kickstart images cannot be re-flashed 
-- Firmware cannot be upgraded via ICSP
+- Firmware CAN be upgraded via ICSP
 - Kickstart selection by CTRL-A-A, support both AUTOSENSE (no additional wires) and RST methods
 - Can connect an external buzzer for audible kickstart switch and named selection evidence
 - Visible kickstart switch and named selection evidence
