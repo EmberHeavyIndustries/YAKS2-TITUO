@@ -50,10 +50,10 @@ The kickswitcher comes in three differen flavors, according to intened use and u
 ### **YAKS2-TITUO R03.1al**
 
 - Suitable for A500, A600, A2000
-- Kickstart images can be flashed at any time (by mean of YAKS2->29F080 adaptor)
+- Kickstart images can be flashed at any time (by mean of YAKS2->29F040 adaptor)
 - Firmware cannot be upgraded via ICSP
 - Kickstart selection by CTRL-A-A, support both AUTOSENSE (no additional wires) and RST methods
-- Can connect an external buzzer for audible kickstart switch and named selection evidence
+- Can connect an onboard buzzer for audible kickstart switch and named selection evidence
 - Visible kickstart switch and named selection evidence
 - Small footprint
 - Can switch among 4-kickstart-images or 8-kickstart-images
